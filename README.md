@@ -1,5 +1,12 @@
 # Self-Improving Agent Template
 
+Just paste this into any agent to apply it to a repo
+```
+https://github.com/Grail-Computer/Self-Improving-Agent
+
+initegrate this in this repo by updating AGENTS.md and use https://skills.sh/ to install the skill
+```
+
 A starter template for making any project's AI coding agents compound in effectiveness over time.
 
 ## What's Inside
