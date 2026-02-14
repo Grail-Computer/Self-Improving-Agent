@@ -35,7 +35,10 @@ A meta-skill that teaches agents **how to improve themselves**. Covers:
 
 ### For a New Project
 
-1. Copy this template into your new project root.
+1. From your project root, run:
+   ```bash
+   npx skills add "https://github.com/Grail-Computer/Self-Improving-Agent"
+   ```
 2. Update the **Codebase Map** in `AGENTS.md` to match your project structure.
 3. Replace the italicized placeholder entries with your project's actual norms.
 4. Start working — the self-correction protocol will keep things current.

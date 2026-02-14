@@ -130,9 +130,12 @@ When a workflow repeats — especially across projects — promote it to a skill
 
 ## Template Usage
 
-This repository is designed as a **starter template**. When using it for a new project:
+This repository is designed as a **starter template**. When integrating it into a project:
 
-1. Copy this entire repo structure into your new project.
+1. From the target project root, run:
+   ```bash
+   npx skills add "https://github.com/Grail-Computer/Self-Improving-Agent"
+   ```
 2. Update the **Codebase Map** to reflect your project's actual structure.
 3. Update **Local Norms** with your project's build commands, test commands, and conventions.
 4. Delete placeholder entries (the italicized examples) and replace with real ones.
